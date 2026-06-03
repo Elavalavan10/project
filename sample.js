@@ -8,5 +8,5 @@ snacks()
 function fruite(){
     console.log("Mango")
     console.log("Orange")
-    console.log("pomogranet")
+   console.log("apple")
 }
