@@ -1,6 +1,6 @@
 function snacks(){
     console.log("fruite")
     console.log("chocolate")
-    console.log("cookies")
+    console.log("mixture")
 }
 snacks()
